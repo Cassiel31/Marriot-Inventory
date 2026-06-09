@@ -770,7 +770,3 @@ function AddInventory() {
 }
 
 export default AddInventory;
-
-function callBack:
-{
-navigation
